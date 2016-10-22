@@ -1,1 +1,0 @@
-This folder contains the SMSServer database creation scripts for some known database servers.
